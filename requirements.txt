@@ -1,2 +1,7 @@
-Flask==0.12.2
+Keras==2.0.8
+numpy==1.13.1
+WTForms==2.1
 gunicorn==19.7.1
+Flask==0.12.2
+tensorflow==1.1.0
+h5py==2.7.0
